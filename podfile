@@ -1,0 +1,16 @@
+platform:ios, '9.0'   
+target 'two' do 
+pod 'Alamofire', '~> 4.5.0'
+pod 'SDWebImage', '~> 3.7.2'  
+pod 'MJRefresh', '~> 3.1.0'
+pod 'SVProgressHUD', '~> 2.1.2'
+pod 'BMPlayer'
+pod 'AMap3DMap'
+pod 'AMapSearch'
+pod 'AMapLocation'
+pod 'SwiftyOnboard'
+pod 'DZNEmptyDataSet'
+pod 'GDPerformanceView-Swift'
+use_frameworks!
+end
+

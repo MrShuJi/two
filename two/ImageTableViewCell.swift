@@ -1,9 +1,9 @@
 //
 //  ImageTableViewCell.swift
-//  hangge_1343
 //
-//  Created by hangge on 2016/11/21.
-//  Copyright © 2016年 hangge. All rights reserved.
+//
+//  Created by 舒吉
+//  Copyright © 2016年 舒吉. All rights reserved.
 //
 
 import UIKit

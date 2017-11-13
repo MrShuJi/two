@@ -11,6 +11,7 @@ pod 'AMapLocation'
 pod 'SwiftyOnboard'
 pod 'DZNEmptyDataSet'
 pod 'GDPerformanceView-Swift'
+pod 'SwiftyJSON'
 use_frameworks!
 end
 

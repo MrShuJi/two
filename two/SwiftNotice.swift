@@ -2,8 +2,8 @@
 //  SwiftNotice.swift
 //  SwiftNotice
 //
-//  Created by JohnLui on 15/4/15.
-//  Copyright (c) 2015年 com.lvwenhan. All rights reserved.
+//  Created by 舒吉 on 
+//  Copyright (c) 2015年 舒吉. All rights reserved.
 //
 
 import Foundation

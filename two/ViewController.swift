@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     var subTitleArray: [String] = ["Confess lets you anonymously\n send confessions to your friends\n and receive confessions from them.", "All confessions sent are\n anonymous. Your friends will only\n know that it came from one of\n their facebook friends.", "Be nice to your friends.\n Send them confessions that\n will make them smile"]
     
     var gradiant: CAGradientLayer = {
-        //Gradiant for the background view
+        //Gradiant for the background view shuji
         let blue = UIColor(red: 69/255, green: 127/255, blue: 202/255, alpha: 1.0).cgColor
         let purple = UIColor(red: 166/255, green: 172/255, blue: 236/255, alpha: 1.0).cgColor
         let gradiant = CAGradientLayer()
